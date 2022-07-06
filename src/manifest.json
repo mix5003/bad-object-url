@@ -4,7 +4,7 @@
   "name": "createObjectURL bug repro",
   "version": "1.0.0",
 
-  "description": "createObjectUrl bug repro ",
+  "description": "createObjectUrl bug repro",
 
   "options_ui": {
     "browser_style": true,
